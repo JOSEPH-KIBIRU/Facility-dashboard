@@ -21,7 +21,7 @@ import ElectricityBillPage from '../pages/Bills/ElectricityBillPage'
 
 // Staff Pages
 import RegisterStaff from '../pages/Staff/RegisterStaff'
-import StaffList from '../pages/Staff/StaffList'
+import StaffList from '../pages/staff/StaffList'
 
 // Repairs Pages
 import RepairRequestForm from '../pages/Repairs/RepairRequestForm'
