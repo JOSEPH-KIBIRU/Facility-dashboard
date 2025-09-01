@@ -20,7 +20,7 @@ import WaterBillPage from '../pages/Bills/WaterBillPage'
 import ElectricityBillPage from '../pages/Bills/ElectricityBillPage'
 
 // Staff Pages
-import RegisterStaff from '../pages/Staff/RegisterStaff'
+import RegisterStaff from '../pages/staff/RegisterStaff'
 import StaffList from '../pages/staff/StaffList'
 
 // Repairs Pages
